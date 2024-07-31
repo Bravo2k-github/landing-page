@@ -92,3 +92,29 @@ body{
     font-weight: bolder;
     font-size: 24px;
 }
+.sign-up-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#3882f6 ;
+    margin: 0px 30%;
+    padding:32px 64px;
+}
+.sign-up-text{
+    color:#e5e7eb;
+}
+.sign-up-header{
+    font-size: 24px;
+    font-weight: bolder;
+}
+.sign-up-secondary-text{
+    font-size: 18px;
+}
+.sign-up-button{
+    border:3px solid #e5e7eb;
+    padding:8px 32px;
+    font-size: 18px;
+    font-weight: 700;
+    background-color:#3882f6;
+    color:#e5e7eb;
+}
